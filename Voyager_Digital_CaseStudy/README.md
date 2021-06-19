@@ -11,7 +11,7 @@ Today, we are at the tipping point of a new technological revolution.  A revolut
     >
     >“[We wanted a product] that really simplifies the markets but gives the consumer enough information that they can make a really good decision on which crypto-assets 
     >they want to hold, earn and invest in and trade over the near future. That’s how we >came together, and we started building the product off of a few meetings.”  
-    >- Executive America*(https://executiveamerica.com/tag/stephen-ehrlich/)
+    >- [Executive America](https://executiveamerica.com/tag/stephen-ehrlich/)
     >
 Steve Ehrlich recognizes the importance of bridging gaps between consumers and the products they want.  That pioneering online brokerage, E-Trade, we mentioned earlier was once led by Steve Ehrlich as VP for Brokerage from 1999 to 2006 (LinkedIn:  https://www.linkedin.com/in/stephenehrlich/).  In an interview with Executive America, Steve Ehrlich said, 
     >
